@@ -1,4 +1,4 @@
-# Github-tools
+# Github Tools
 GitHub state flow tools for Opun Products
 
 ## Common labels creation
